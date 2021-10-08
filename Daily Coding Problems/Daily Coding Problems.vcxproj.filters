@@ -17,4 +17,9 @@
   <ItemGroup>
     <Text Include="Problem_001\Problem1.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Problem_001\Problem1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

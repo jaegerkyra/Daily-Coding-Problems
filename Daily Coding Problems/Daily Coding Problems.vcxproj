@@ -141,6 +141,9 @@
   <ItemGroup>
     <Text Include="Problem_001\Problem1.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Problem_001\Problem1.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
