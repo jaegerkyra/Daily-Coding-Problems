@@ -1,0 +1,10 @@
+My pseudocode:
+
+Ask user for a list of numbers and a number (k).
+Assign list to a list and the number to k.
+
+Take the first number in list and add with second number. Check if sum equals K. If yes, Check is true. If false, repeat with third number until either a sum that equals k is true or at end of list.
+If none in list added to first numer equal k, then repeat with second number added to third number and onward.
+
+if none equal, then check returns false.
+Output: a message about how none of the numbers added equal k
