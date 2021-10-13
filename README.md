@@ -1,6 +1,9 @@
 # Daily-Coding-Problems
 Daily Coding Problem Exercises
 
+<b>10/13/21 Note:</b><br> 
+I'm still a bit of a newbie to coding, so some of the prompts are taking longer than one day to completed. My goal to get as far as I can with one problem before proceeding to the next. 
+
 <hr class="solid">
 
 **Problem 1 Prompt:** <br>
