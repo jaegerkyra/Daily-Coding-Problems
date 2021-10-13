@@ -8,7 +8,6 @@ int main() {
 
 	return 0;
 
-	//testing 2vrewrewrweraerfreareware retreterartesrt another test push areawerdsdf rewrew
 }
 
 
