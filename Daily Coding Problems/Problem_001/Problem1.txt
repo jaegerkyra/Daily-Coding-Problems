@@ -8,3 +8,20 @@ If none in list added to first numer equal k, then repeat with second number add
 
 if none equal, then check returns false.
 Output: a message about how none of the numbers added equal k
+
+
+************************************
+10-13-2021:
+Error: Run-Time Check Failure #2 - Stack around the variable 'numList' was corrupted.
+
+Unsure how to resolve at this time...
+
+Update: I misunderstood array setup/initialization. I had "int numList [4] thinking that would cover 0, 1, 2, 3, 4. 
+But I should have done "int numList [5] if I wanted 5 spaces so to speak. Also adjusted loops to stop when i or j < 5 instead of 4. 
+Seems to be working AND giving accurate results now.
+
+Improvements: 
+- Might be good to know if list of numbers should be limited to 5 or allow user to choose how many to enter. 
+- Learn how to add unit tests
+- Review later with a better understanding of time complexity and how this can be improved
+- Have a better understanding of user requirements (should the user be allowed to enter duplicate numbers, negative numbers, decimals, etc?)

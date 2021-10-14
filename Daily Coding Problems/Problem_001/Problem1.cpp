@@ -1,5 +1,6 @@
 #include <iostream>
 #include "Problem1.h"
+
 using namespace std;
 
 
@@ -20,8 +21,25 @@ int main() {
 	cout << "What is the specified sum (k)?" << endl;
 	cin >> k;
 
-	cout << "The list includes: " << numList[0] << ", " << numList[1] << ", " << numList[2] << ", " << numList[3] << ", " << numList[4] << ". " << endl;
-	cout << "Number k is: " << k << endl;
+	bool Answer = false; 
+	int numA;
+	int numB;
+	for (int i = 0; i < 5; i++) {
+		for (int j = i + 1; j < 5; j++) {
+			if (k == numList[i] + numList[j]) {
+				numA = numList[i];
+				numB = numList[j];
+				Answer = true;
+			}
+		}
+	}
+
+	if (Answer == true) {
+		cout << "The answer is true! " << numA << " and " << numB << " add up to " << k << "." << endl;
+	}
+	else {
+		cout << "There are no two numbers that equal " << k << endl;
+	}
 
 	return 0;
 
