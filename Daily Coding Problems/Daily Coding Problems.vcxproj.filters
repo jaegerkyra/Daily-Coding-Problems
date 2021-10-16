@@ -21,6 +21,9 @@
     <ClCompile Include="Problem_001\Problem1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Problem_002\Source1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Problem_001\Problem1.h">

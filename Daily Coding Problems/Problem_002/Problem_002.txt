@@ -1,0 +1,10 @@
+10/15/2021
+Pseudocode: 
+initalize an array.
+Ask user for a list of numbers and assign to an array.
+
+Could create a function to multiply the other numbers in array if given the length of array and number to skip.
+
+Use a for loop to go through each number in the array
+
+*******************************************************
