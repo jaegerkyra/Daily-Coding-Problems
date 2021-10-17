@@ -15,7 +15,11 @@ int main() {
 	}
 
 	for (int i = 0; i < 5; i++) {
-		//Need to come up with a formula or solution to multiply and reassign to array
+		for (int j = 0; j < 5; j++) {
+			numList[i] = numlist[j]
+				//stumped...
+		}
+		
 	}
 
 	return 0;
