@@ -146,6 +146,7 @@
     <ClCompile Include="Problem_002\Problem2.cpp" />
     <ClCompile Include="Problem_002\Source1.cpp" />
     <ClCompile Include="Problem_003\Problem3.cpp" />
+    <ClCompile Include="Problem_003\Problem_003.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Problem_001\Problem1.h" />
