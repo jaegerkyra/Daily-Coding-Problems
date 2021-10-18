@@ -15,25 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="Problem_001\Problem1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="Problem_001\Problem1.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Problem_002\Problem2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Problem_003\Problem3.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Problem_003\Problem_003.cpp">
+    <ClCompile Include="..\Daily Coding Problems\Problem_003\Problem_003.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Problem_001\Problem1.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
+    <Text Include="..\Daily Coding Problems\Problem_003\Problem3.txt" />
   </ItemGroup>
 </Project>
