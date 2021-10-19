@@ -34,4 +34,14 @@ Take two numbers entered and give the sum.
 My Solution is <a href="https://github.com/jaegerkyra/Daily-Coding-Problems/tree/master/Daily%20Coding%20Problems/Problem_003">here</a>!
 <hr class="solid">
 
+**Problem 4 Prompt:** <br>
+LeetCode: Palindrome Number <br>
+
+Given an integer x, return true if x is palindrome integer.
+
+An integer is a palindrome when it reads the same backward as forward. For example, 121 is palindrome while 123 is not.
+
+My Solution is <a href="https://github.com/jaegerkyra/Daily-Coding-Problems/tree/master/Daily%20Coding%20Problems/Problem_004">here</a>!
+<hr class="solid">
+
 
