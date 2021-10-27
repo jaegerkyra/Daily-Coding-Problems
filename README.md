@@ -32,6 +32,13 @@ Personal Prompt <br>
 Take two numbers entered and give the sum.
 
 My Solution is <a href="https://github.com/jaegerkyra/Daily-Coding-Problems/tree/master/Daily%20Coding%20Problems/Problem_003">here</a>!
+
+<hr class="solid">
+
+**Problem 4 Prompt:** <br>
+LeetCode: Roman to Integer <br>
+
+Given a roman numeral, convert it to an integer.
 <hr class="solid">
 
 **Problem 4 Prompt:** <br>
